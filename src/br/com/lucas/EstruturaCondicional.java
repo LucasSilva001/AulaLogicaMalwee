@@ -13,7 +13,7 @@ public class EstruturaCondicional {
 			 System.out.println("Jovem!");
 			 
 		 } else if(idade >= 18 && idade < 65) {
-			 System.out.println("Adulto!");
+			 System.out.println("!Adulto!");
 		 } else {
 			 System.out.println("Idoso!"); 
 			 
